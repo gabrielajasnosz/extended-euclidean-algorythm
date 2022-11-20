@@ -1,4 +1,6 @@
 Simple extended euclidean algorythm for 3 numbers. 
 
-Preview:
+https://gabrielajasnosz.github.io/extended-euclidean-algorythm/
+
+
 ![preview](./images/preview.png)
